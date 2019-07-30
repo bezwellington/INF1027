@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src/main/java"/>
+	<classpathentry kind="src" output="classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="testclasses" path="src/test/java"/>
+	<classpathentry kind="src" output="testclasses" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.8.1.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
